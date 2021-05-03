@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Vivendo e aprendendo, errando e se fodendo.
 Use the left arrow to go back!
